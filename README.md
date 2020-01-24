@@ -1,2 +1,0 @@
-# ServidorImagenes
-Created with CodeSandbox
